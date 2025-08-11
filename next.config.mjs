@@ -16,6 +16,7 @@ const nextConfig = {
       'www.aitimi.cn',
       'vtron.site',
       'blog.gholts.top',
+      'xsl.im',
     ],
     remotePatterns: [
       {
@@ -55,6 +56,10 @@ const nextConfig = {
       {
         protocol: 'https',
         hostname: 'blog.ricocc.com',
+      },
+      {
+        protocol: 'https',
+        hostname: 'xsl.im',
       },
     ],
   },

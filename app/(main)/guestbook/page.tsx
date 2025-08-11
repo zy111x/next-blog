@@ -39,11 +39,11 @@ export default async function GuestBookPage() {
       url: 'https://mggg.cloud',
       icon: '',
     },
-    {
-      title: '伴夜',
-      url: 'https://www.aitimi.cn',
-      icon: 'https://www.aitimi.cn/favicon.ico',
-    },
+    // {
+    //   title: '伴夜',
+    //   url: 'https://www.aitimi.cn',
+    //   icon: 'https://www.aitimi.cn/favicon.ico',
+    // },
     {
       title: 'royalknight',
       url: 'https://vtron.site/blog/index.html',
@@ -63,6 +63,11 @@ export default async function GuestBookPage() {
       title: 'Rico’s Blog',
       url: 'https://blog.ricocc.com/',
       icon: 'https://blog.ricocc.com/favicon.png',
+    },
+    {
+      title: 'AirTouch’s Blog',
+      url: 'https://xsl.im',
+      icon: 'https://xsl.im/avatar.webp',
     },
   ]
 
